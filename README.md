@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<!--
 ## 💬 Introduction
 I'm [Jonathan Yudi Gunawan](https://jonathan-profile.netlify.app/), currently on a learning journey on ITB as an Informatics Engineering undergraduate of year 2018. I love computer science and software engineering topics. Get in touch with me!
 
@@ -37,3 +37,4 @@ I'm [Jonathan Yudi Gunawan](https://jonathan-profile.netlify.app/), currently on
 ---
 You can also reach me via [Linkedin](https://www.linkedin.com/in/jonathan-yudi-gunawan-80b67a19a/)
 
+-->
