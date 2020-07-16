@@ -12,20 +12,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!--
+
 ## 💬 Introduction
-I'm [Jonathan Yudi Gunawan](https://jonathan-profile.netlify.app/), currently on a learning journey on ITB as an Informatics Engineering undergraduate of year 2018. I love computer science and software engineering topics. Get in touch with me!
+I'm [William](https://william-porto.netlify.app/), currently a third year student as an Informatics Engineering undergraduate of year 2018. Feel free to get in touch with me 😄
 
 ## 🌱 Featured Projects
 | Project | Short Description | Language and Stack Used |
 |---------|-------------------|-------------------------|
-|🧩 [Masyu Solver](https://github.com/JonathanGun/masyu-solver)                                       | puzzle solver         | pure Python              |
-|🔍 [Keyword Extractor](https://github.com/JonathanGun/Covid-keyword-extractor)                       | simple website        | Python Flask + bootstrap |
-|📐 [Convex Hull Finder](https://github.com/JonathanGun/Convex-Hull-Finder)                           | deskptop & native app | Java Processing          |
-|🧠 [Avatar Strategy Game](https://github.com/JonathanGun/Avatar-World-War-Multiplayer-Strategy-Game) | command line game     | pure C                   |
-|🎫 [Ticketo5](https://github.com/JonathanGun/ticketo5)                                               | web app (simple CRUD) | C# .NET Core             |
+|🧩 [InfoExtractor](https://github.com/William9923/KeyMatcher)                                       | keyword finder        | Flask + Materialize CSS |
+|🔍 [InfoQerja](https://github.com/William9923/infoqerja-line)                                        | job finding bot       | Go + Linebot SDK        |
+|🧠 [DuelFX](https://github.com/William9923/DuelFX)                                                   | GUI Game     | Java + JavaFX (GUI)              |
+|🎫 [War](https://github.com/William9923/War)                                                         | a simple command line game | Pure C             |
 
--->
 
 ## 🏆 Awards
 
@@ -37,6 +35,5 @@ I'm [Jonathan Yudi Gunawan](https://jonathan-profile.netlify.app/), currently on
 ## ⚡ More Info
 ![My github stats](https://github-readme-stats.vercel.app/api?username=william9923&show_icons=true)
 ---
-You can also reach me via [Linkedin](https://www.linkedin.com/in/williamong9923)
-You can also view my article [Medium](https://medium.com/@williamong1400)
+You can also reach me via [Linkedin](https://www.linkedin.com/in/williamong9923) and view my blogs in [Medium](https://medium.com/@williamong1400)
 
