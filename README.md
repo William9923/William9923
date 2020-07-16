@@ -25,16 +25,18 @@ I'm [Jonathan Yudi Gunawan](https://jonathan-profile.netlify.app/), currently on
 |🧠 [Avatar Strategy Game](https://github.com/JonathanGun/Avatar-World-War-Multiplayer-Strategy-Game) | command line game     | pure C                   |
 |🎫 [Ticketo5](https://github.com/JonathanGun/ticketo5)                                               | web app (simple CRUD) | C# .NET Core             |
 
+-->
+
 ## 🏆 Awards
 
 | Achievement | Scope | Name | Date | Description |
 |-------------|-------|------|------|-------------|
-| Top 100 (ranked 45 out of 9400 teams) | International | IEEEXTREME 13.0 International Competitive Programming Competition | Oct 2019 | IEEEXtreme is a global challenge in which teams compete in a 24-hour time span against each other to solve a set of programming problems. |
-| 3rd Place | Local | ITB - NTUST Cloud Computing Hackathon | Sep 2019 | Cloud Computing Hackathon held in ITB by NTUST Taiwan |
+| 3rd Place | National | Gemastik Data Mining Competition | Oct 2019 | Developed a deep learning model to identify difference between leaves. |
+| 3rd Place | National | Best Paper, National Data Summit (2019) | Nov 2019 | Developed a new way to handle and process waste with deep learning |
 
 ## ⚡ More Info
 ![My github stats](https://github-readme-stats.vercel.app/api?username=william9923&show_icons=true)
 ---
-You can also reach me via [Linkedin](https://www.linkedin.com/in/jonathan-yudi-gunawan-80b67a19a/)
+You can also reach me via [Linkedin](https://www.linkedin.com/in/williamong9923)
+You can also view my article [Medium](https://medium.com/@williamong1400)
 
--->
