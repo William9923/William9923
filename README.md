@@ -33,7 +33,7 @@ I'm [Jonathan Yudi Gunawan](https://jonathan-profile.netlify.app/), currently on
 | 3rd Place | Local | ITB - NTUST Cloud Computing Hackathon | Sep 2019 | Cloud Computing Hackathon held in ITB by NTUST Taiwan |
 
 ## ⚡ More Info
-![My github stats](https://github-readme-stats.vercel.app/api?username=jonathangun&show_icons=true)
+![My github stats](https://github-readme-stats.vercel.app/api?username=william9923&show_icons=true)
 ---
 You can also reach me via [Linkedin](https://www.linkedin.com/in/jonathan-yudi-gunawan-80b67a19a/)
 
