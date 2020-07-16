@@ -19,10 +19,10 @@ I'm [William](https://william-porto.netlify.app/), currently a third year studen
 ## 🌱 Featured Projects
 | Project | Short Description | Language and Stack Used |
 |---------|-------------------|-------------------------|
-|🧩 [InfoExtractor](https://github.com/William9923/KeyMatcher)                                       | keyword finder        | Flask + Materialize CSS |
+|🧩 [InfoExtractor](https://info-extractor9923.herokuapp.com/)                                       | keyword finder        | Flask + Materialize CSS |
 |🔍 [InfoQerja](https://github.com/William9923/infoqerja-line)                                        | job finding bot       | Go + Linebot SDK        |
-|🧠 [DuelFX](https://github.com/William9923/DuelFX)                                                   | GUI Game     | Java + JavaFX (GUI)              |
-|🎫 [War](https://github.com/William9923/War)                                                         | a simple command line game | Pure C             |
+|🧠 [DuelFX](https://github.com/William9923/DuelFX)                                                   | card game     | Java + JavaFX (GUI)              |
+|🎫 [War](https://github.com/William9923/War)                                                         | a simple cli game | Pure C             |
 
 
 ## 🏆 Awards
