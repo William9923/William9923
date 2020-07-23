@@ -34,5 +34,6 @@ I'm [William](https://william-porto.netlify.app/), currently a third year studen
 ## ⚡ More Info
 ![My github stats](https://github-readme-stats.vercel.app/api?username=william9923&show_icons=true)
 ---
-You can also reach me via [Linkedin](https://www.linkedin.com/in/williamong9923) and view my blogs in [Medium](https://medium.com/@williamong1400)
+You can also reach me via [Linkedin](https://www.linkedin.com/in/williamong9923) and view my blogs in [Medium](https://medium.com/@williamong1400). 
+Contact me easily via my [portofolio](https://william-porto.netlify.app/)
 
