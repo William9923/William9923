@@ -1,6 +1,4 @@
 <!--
-**JonathanGun/JonathanGun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -14,7 +12,7 @@ Here are some ideas to get you started:
 -->
 
 ## 💬 Introduction
-I'm [William](https://william-porto.netlify.app/), currently a third year student as an Informatics Engineering undergraduate of year 2018. Feel free to get in touch with me 😄
+I'm [William](https://william-porto.netlify.app/), currently a third year student as an Informatics Engineering undergraduate of year 2018.Currently working at Xtremax Bandung as Backend Engineer Intern. Feel free to get in touch with me 😄.
 
 ## 🌱 Featured Projects
 | Project | Short Description | Language and Stack Used |
@@ -22,7 +20,8 @@ I'm [William](https://william-porto.netlify.app/), currently a third year studen
 |🧩 [InfoExtractor](https://info-extractor9923.herokuapp.com/)                                       | keyword finder        | Flask + Materialize CSS |
 |🔍 [InfoQerja](https://github.com/William9923/infoqerja-line)                                        | job finding bot       | Go + Linebot SDK        |
 |🧠 [DuelFX](https://github.com/William9923/DuelFX)                                                   | card game     | Java + JavaFX (GUI)              |
-|🎫 [War](https://github.com/William9923/War)                                                         | a simple cli game | Pure C             |
+|🎫 [War](https://github.com/William9923/War)                                                         | a simple cli game |  C             |
+|🔭 [Polynomial Solver Library](https://github.com/William9923/PolynomSolver)                                                         | a library to help solving polynomial problem | C++ |
 
 
 ## 🏆 Awards
