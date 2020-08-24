@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 -->
 
 ## 💬 Introduction
-I'm [William](https://william-porto.netlify.app/), currently a third year student as an Informatics Engineering undergraduate of year 2018.Currently working at Xtremax Bandung as Backend Engineer Intern. Feel free to get in touch with me 😄.
+I'm [William](https://william-porto.netlify.app/), currently a third year student as an Informatics Engineering undergraduate of year 2018. Feel free to get in touch with me 😄.
 
 ## 🌱 Featured Projects
 | Project | Short Description | Language and Stack Used |
@@ -26,7 +26,7 @@ I'm [William](https://william-porto.netlify.app/), currently a third year studen
 | Achievement | Scope | Name | Date | Description |
 |-------------|-------|------|------|-------------|
 | 3rd Place | National | Gemastik Data Mining Competition | Oct 2019 | Developed a deep learning model to identify difference between leaves. |
-| 3rd Place | National | Best Paper, National Data Summit (2019) | Nov 2019 | Developed a new way to handle and process waste with deep learning |
+| Best Paper | National | National Data Summit (2019) | Nov 2019 | Developed a new way to handle and process waste with deep learning |
 
 ## Experience
 | Roles | Type | Location | Duration | From-Until |
