@@ -12,12 +12,12 @@ Here are some ideas to get you started:
 -->
 
 ## 💬 Introduction
-I'm [William](https://william-porto.netlify.app/), currently a third year student as an Informatics Engineering undergraduate of year 2018. Feel free to get in touch with me 😄.
+I'm [William](https://william9923.github.io/), currently a third year student as an Informatics Engineering undergraduate of year 2018. Feel free to get in touch with me 😄.
 
 ## 🌱 Featured Projects
 | Project | Short Description | Language and Stack Used |
 |---------|-------------------|-------------------------|
-|⚡ [Strict Library](https://github.com/William9923/clean-express-template) | Express Js Template with Typescript | Express Js |
+|⚡ [Strict Library](https://typescript-express-demo.herokuapp.com/) | Express Js Template with Typescript | Express Js + Typescript |
 |🧩 [InfoExtractor](https://info-extractor9923.herokuapp.com/)                                       | keyword finder        | Flask + Materialize CSS |
 |🔍 [InfoQerja](https://github.com/William9923/infoqerja-line)                                        | job finding bot       | Go + Linebot SDK        |
 |🧠 [Halma Checker](https://github.com/if13518138/MinesweeperAI)                                                   | board game     | Python + PySimpleGUI (GUI)             |
