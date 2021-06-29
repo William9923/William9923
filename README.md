@@ -12,15 +12,19 @@ Here are some ideas to get you started:
 -->
 
 ## 💬 Introduction
-I'm [William](https://william9923.github.io/), currently a third year student as an Informatics Engineering undergraduate of year 2018. Feel free to get in touch with me 😄.
+I'm [William](https://william9923.github.io/), currently a fourth year student as an Informatics Engineering undergraduate of year 2018. Feel free to get in touch with me 😄.
 
 ## 🌱 Featured Projects
 | Project | Short Description | Language and Stack Used |
 |---------|-------------------|-------------------------|
 |⚡ [Strict Library](https://typescript-express-demo.herokuapp.com/) | Express Js Template with Typescript | Express Js + Typescript |
-|🧩 [InfoExtractor](https://info-extractor9923.herokuapp.com/)                                       | keyword finder        | Flask + Materialize CSS |
-|🔍 [InfoQerja](https://github.com/William9923/infoqerja-line)                                        | job finding bot       | Go + Linebot SDK        |
-|🧠 [Halma Checker](https://github.com/if13518138/MinesweeperAI)                                                   | board game     | Python + PySimpleGUI (GUI)             |
+|🔍 [InfoQerja](https://github.com/William9923/infoqerja-line)       | job finding bot       | Go + Linebot SDK        |
+|🧠 [Halma Checker](https://github.com/if13518138/Halma_Checker)     | board game     | Python + PySimpleGUI (GUI)             |
+|💣 [Minesweeper Bot](https://github.com/if13518138/MinesweeperAI)     | board game     | Python + PySimpleGUI (GUI)             |
+|⛽ [Tanks!Extended](https://github.com/William9923/Tanks-Extended)    | platform game with Tanks    | Unity             |
+|🤖 [Dancing Model](https://github.com/William9923/Dancing-Model)     | web app to showcase 3d model     | Typescript + WebGL             |
+|🏋️ [Working Out](https://github.com/William9923/WorkingOut)       | mobile app (Android) for working out     | Kotlin (Android SDK)             |
+
 
 ## 🏆 Awards
 
@@ -28,10 +32,13 @@ I'm [William](https://william9923.github.io/), currently a third year student as
 |-------------|-------|------|------|-------------|
 | 3rd Place | National | Gemastik Data Mining Competition | Oct 2019 | Developed a deep learning model to identify difference between leaves. |
 | Best Paper | National | National Data Summit (2019) | Nov 2019 | Developed a new way to handle and process waste with deep learning |
+| Top 15 | National | National Data Science Competition Shopee (2020) | Nov 2020 | Matching payment using fuzzy search & Create apriori algorithm to calculate market basket confidence |
 
 ## Experience
 | Roles | Type | Location | Duration | From-Until |
 |-------------|-------|------|------|-------------|
+| Data Scientist | Internship | [Blibli](https://www.blibli.com/) | ~ 3 months | June 2021 - August 2021 (expected) |
+| Head Division of Datavidia | Volunteer | [Arkavidia](https://www.arkavidia.id/) | 10 months | July 2020 - April 2021 |
 | Backend Developer | Internship | [Xtremax Indonesia](https://www.linkedin.com/company/xtremax/) | 3 months | May 2020 - August 2020 |
 | Graphics and Artificial Intelligence Laboratory Assistance | Assistance | [Institut Teknologi Bandung](https://www.itb.ac.id/) | N/A | August 2020 - present |
 
