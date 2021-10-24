@@ -18,6 +18,7 @@ I'm [William](https://william9923.github.io/), currently a fourth year student a
 | Project | Short Description | Language and Stack Used |
 |---------|-------------------|-------------------------|
 |⚡ [Strict Library](https://typescript-express-demo.herokuapp.com/) | Express Js Template with Typescript | Express Js + Typescript |
+|🛒 [E2E Ecommerce](https://github.com/William9923/E2E-Ecommerce) | E2E Ecommerce from data engineering, data analysis and data science | Python |
 |🧠 [Halma Checker](https://github.com/if13518138/Halma_Checker)     | Halma board game with AI     | Python + PySimpleGUI (GUI)             |
 |⛽ [Tanks!Extended](https://github.com/William9923/Tanks-Extended)    | Shooting 2D platform based offline game  | Unity             |
 |🏋️ [Working Out](https://github.com/William9923/WorkingOut)       | Mobile apps (Android) for working out     | Kotlin (Android SDK)             |
