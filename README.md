@@ -33,7 +33,11 @@ I'm [William](https://william9923.github.io/), currently a fourth year student a
 <code><img height="20" src="https://camo.githubusercontent.com/35df65972dd10241edb2bdbd1f49f7f52b83f909b32d91f76aa6bd0c6b976ea5/68747470733a2f2f6e73712e696f2f7374617469632f696d672f6e73715f626c75652e706e67" alt="nsq"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git"></code>
 
-<img src="github-metrics.svg" alt="Metrics" width="100%">
+<h3><strong>My Stats:</strong></h3>
+<center><img src="github-metrics.svg" alt="Metrics" width="50%"></center>
+<center><img src="metrics.plugin.habits.charts.svg" alt="Metrics" width="50%"></center>
+<center><img src="metrics.plugin.isocalendar.svg" alt="Metrics" width="50%"></center>
+
 
 <h3><strong>Current culture fit:</strong></h3>
 
