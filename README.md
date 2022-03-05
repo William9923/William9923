@@ -1,61 +1,46 @@
-<!--
-Here are some ideas to get you started:
+<h2> 𝐇i, <code> Engineer! </code> </h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![visitors](https://visitor-badge.glitch.me/badge?page_id=github.com/William9923)
 
-## 💬 Introduction
+<a href="https://www.linkedin.com/in/williamong9923/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://medium.com/@williamong1400" target="_blank"><img src="https://img.shields.io/badge/Medium-gray.svg?&style=flat&logo=medium&logoColor=white" alt="Medium"></a>
+<a href="http://william.github.io" target="_blank">
+<img src="https://img.shields.io/static/v1?label=Web&message=william.github.io&color=%230076D6&style=flat&logo=google-chrome&logoColor=%230076D6" alt="Portofolio"/>
+</a>
+<a href="http://william.github.io" target="_blank">
+<img src="https://img.shields.io/badge/Projects-5-yellow?&style=flat" alt="Projects"/>
+</a>
+
+
 I'm [William](https://william9923.github.io/), currently a fourth year student as an Informatics Engineering undergraduate of year 2018. Feel free to get in touch with me 😄.
 
-## 🌱 Featured Projects
-| Project | Short Description | Language and Stack Used |
-|---------|-------------------|-------------------------|
-|⚡ [Strict Library](https://typescript-express-demo.herokuapp.com/) | Express Js Template with Typescript | Express Js + Typescript |
-|🛒 [E2E Ecommerce](https://github.com/William9923/E2E-Ecommerce) | E2E Ecommerce from data engineering, data analysis and data science | Python |
-|🧠 [Halma Checker](https://github.com/if13518138/Halma_Checker)     | Halma board game with AI     | Python + PySimpleGUI (GUI)             |
-|⛽ [Tanks!Extended](https://github.com/William9923/Tanks-Extended)    | Shooting 2D platform based offline game  | Unity             |
-|🏋️ [Working Out](https://github.com/William9923/WorkingOut)       | Mobile apps (Android) for working out     | Kotlin (Android SDK)             |
 
+<h3><strong>Languages and Tools that I familiar with</strong></h3>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python"></code>  
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" alt="go"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" alt="java"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="typescript"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" alt="flask"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png" alt="machine learning"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="mysql"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="postgresql"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/mongodb/mongo/b916a2ed3affa06b99ff57b0d13eed611232e04a/docs/leaf.svg" alt="mongodb"></code>
+<code><img height="20" src="https://www.drupal.org/files/datadog-logo-purple.png" alt="datadog"></code>
+<code><img height="20" src="https://avatars.githubusercontent.com/u/474892?s=200&v=4" alt="graylog"></code>
+<code><img height="20" src="https://camo.githubusercontent.com/35df65972dd10241edb2bdbd1f49f7f52b83f909b32d91f76aa6bd0c6b976ea5/68747470733a2f2f6e73712e696f2f7374617469632f696d672f6e73715f626c75652e706e67" alt="nsq"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git"></code>
 
-## 🏆 Awards
+<h3><strong>Current culture fit:</strong></h3>
 
-| Achievement | Scope | Name | Date | Description |
-|-------------|-------|------|------|-------------|
-| 3rd Place | National | Gemastik Data Mining Competition | Oct 2019 | Developed a deep learning model to identify difference between leaves. |
-| Best Paper | National | National Data Summit (2019) | Nov 2019 | Developed a new way to handle and process waste with deep learning |
-| Top 15 | National | National Data Science Competition Shopee (2020) | Nov 2020 | Matching payment using fuzzy search & Create apriori algorithm to calculate market basket confidence |
+- 🔭 I’m currently fully deep diving on: Backend Engineering (Go, Java) and Frontend (React)
+- 🌱 I'm also interested in data science. In fact, my undergraduate thesis is related to sentiment analysis using generative approach...
+- ⚡ I’m currently learning: Scalability, Observability and System Design to increase my capabilities as software engineer.
+- 👯 I’m looking to work as: Software Engineer (Backend / Fullstack). Also open for Machine Learning Engineer...
+- 💬 Ask me about: Code, life and games :D
+- 📫 How to reach me: williamong1400@gmail.com
 
-## Experience
-| Roles | Type | Location | Duration | From-Until |
-|-------------|-------|------|------|-------------|
-| Software Engineer | Internship | [Tokopedia (Fintech Team / Dhanapala)](https://dhanapala.id/) | 6 months | Aug 2021 - Feb 2022 (expected) |
-| Data Scientist | Internship | [Blibli](https://www.blibli.com/) | 3 months | June 2021 - Aug 2021 |
-| Backend Developer | Internship | [Xtremax Indonesia](https://www.linkedin.com/company/xtremax/) | 3 months | May 2020 - Aug 2020 |
-| Graphics and Artificial Intelligence Laboratory Assistance | Part Time | [Institut Teknologi Bandung](https://www.itb.ac.id/) | 2 years | Aug 2020 - present |
-
-## Volunteer
-| Roles | Location | Duration | From-Until |
-|-------------|-------|------|------|
-| Head Division of Datavidia | [Arkavidia](https://www.arkavidia.id/) | 10 months | July 2020 - April 2021 |
-
-## Connect with me
-[<img align="left" alt="william-porto.netlify.app" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="William | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="William | Medium" width="22px" src="https://img.icons8.com/ios-filled/64/000000/medium-new.png"/>][medium]
 <br>
-
-## Stats
-![My github stats](https://github-readme-stats.vercel.app/api?username=william9923&show_icons=true)
----
-
-[website]: https://william-porto.netlify.app/
-[linkedin]: https://www.linkedin.com/in/williamong9923
-[medium]: https://medium.com/@williamong1400
 
