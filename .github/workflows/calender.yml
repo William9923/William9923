@@ -1,4 +1,4 @@
-name: Stats Metrics
+name: Calender
 on:
   # Schedule daily updates
   schedule: [{cron: "0 0 * * *"}]
@@ -12,4 +12,7 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
+          filename: metrics.plugin.isocalendar.svg
           token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_isocalendar: yes
