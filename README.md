@@ -1,7 +1,7 @@
 <p align="center">
  <img width="100px" src="avatar.jpg" align="center" alt="GitHub Readme Stats" />
  <h2 align="center"><code> William's Readme Profile</code></h2>
- <p align="center">Get yourself a new friend and coworker fellow engineer!</p>
+ <p align="center">Waiting to evolve into <b>gyarados!</b></p>
 </p>
   <p align="center">
   <img src="https://visitor-badge.glitch.me/badge?page_id=github.com/William9923" alt="Visitor">
