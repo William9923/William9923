@@ -1,8 +1,11 @@
-<h2> 𝐇i, <code> Engineer! </code> </h2>
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=github.com/William9923)
-
-<a href="https://www.linkedin.com/in/williamong9923/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<p align="center">
+ <img width="100px" src="avatar.jpg" align="center" alt="GitHub Readme Stats" />
+ <h2 align="center"><code> William's Readme Profile</code></h2>
+ <p align="center">Get yourself a new friend and coworker fellow engineer!</p>
+</p>
+  <p align="center">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=github.com/William9923" alt="Visitor">
+    <a href="https://www.linkedin.com/in/williamong9923/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://medium.com/@williamong1400" target="_blank"><img src="https://img.shields.io/badge/Medium-gray.svg?&style=flat&logo=medium&logoColor=white" alt="Medium"></a>
 <a href="http://william.github.io" target="_blank">
 <img src="https://img.shields.io/static/v1?label=Web&message=william.github.io&color=%230076D6&style=flat&logo=google-chrome&logoColor=%230076D6" alt="Portofolio"/>
@@ -10,9 +13,16 @@
 <a href="http://william.github.io" target="_blank">
 <img src="https://img.shields.io/badge/Projects-5-yellow?&style=flat" alt="Projects"/>
 </a>
+    <br />
+    <br />
+
+  </p>
 
 
-I'm [William](https://william9923.github.io/), currently a fourth year student as an Informatics Engineering undergraduate of year 2018. Feel free to get in touch with me 😄.
+
+
+
+> I'm [William](https://william9923.github.io/), currently a fourth year student as an Informatics Engineering undergraduate of year 2018. Feel free to get in touch with me 😄.
 
 
 <h3><strong>Languages and Tools that I familiar with</strong></h3>
@@ -34,10 +44,20 @@ I'm [William](https://william9923.github.io/), currently a fourth year student a
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git"></code>
 
 <h3><strong>My Stats:</strong></h3>
-<center><img src="github-metrics.svg" alt="Metrics" width="50%"></center>
-<center><img src="metrics.plugin.habits.charts.svg" alt="Metrics" width="50%"></center>
-<center><img src="metrics.plugin.isocalendar.svg" alt="Metrics" width="50%"></center>
+<table>
+  <tr>
+  <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=William9923&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515&theme=dark"/></td>
+    <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=William9923&hide=jupyter%20notebook,c%23,html&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/></td>
+    
+  </tr>
+</table>
 
+<table>
+  <tr>
+    <td valign="top"><img src="metrics.plugin.habits.charts.svg"/></td>
+    <td valign="top"><img src="metrics.plugin.isocalendar.svg"/></td>
+  </tr>
+</table>
 
 <h3><strong>Current culture fit:</strong></h3>
 
