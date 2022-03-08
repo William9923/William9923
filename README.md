@@ -7,9 +7,7 @@
   <img src="https://visitor-badge.glitch.me/badge?page_id=github.com/William9923" alt="Visitor">
     <a href="https://www.linkedin.com/in/williamong9923/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://medium.com/@williamong1400" target="_blank"><img src="https://img.shields.io/badge/Medium-gray.svg?&style=flat&logo=medium&logoColor=white" alt="Medium"></a>
-<a href="http://william.github.io" target="_blank">
-<img src="https://img.shields.io/static/v1?label=Web&message=william.github.io&color=%230076D6&style=flat&logo=google-chrome&logoColor=%230076D6" alt="Portofolio"/>
-</a>
+
 <a href="http://william.github.io" target="_blank">
 <img src="https://img.shields.io/badge/Projects-5-yellow?&style=flat" alt="Projects"/>
 </a>
