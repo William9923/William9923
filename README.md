@@ -59,9 +59,9 @@
 
 <h3><strong>Current culture fit:</strong></h3>
 
-- 🔭 I’m currently fully deep diving on: Backend Engineering (Go, Java) and Frontend (React)
-- 🌱 I'm also interested in data science. In fact, my undergraduate thesis is related to sentiment analysis using generative approach...
-- ⚡ I’m currently learning: Scalability, Observability and System Design to increase my capabilities as software engineer.
+- 🔭 I’m currently fully deep diving on: Backend Engineering (Go, Java) and learning other technology concepts like message queue and caching and their implementation.
+- 🌱 I'm also interested in data science. In fact, my undergraduate thesis is related to sentiment analysis using generative approach (will be available publicly soon!).
+- ⚡ I’m currently learning: Scalability, Observability and System Design to increase my capabilities as software engineer (especially on backend)
 - 👯 I’m looking to work as: Software Engineer (Backend / Fullstack). Also open for Machine Learning Engineer...
 - 💬 Ask me about: Code, life and games :D
 - 📫 How to reach me: williamong1400@gmail.com
