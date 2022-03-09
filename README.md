@@ -9,7 +9,7 @@
 <a href="https://medium.com/@williamong1400" target="_blank"><img src="https://img.shields.io/badge/Medium-gray.svg?&style=flat&logo=medium&logoColor=white" alt="Medium"></a>
 
 <a href="http://william.github.io" target="_blank">
-<img src="https://img.shields.io/badge/Projects-5-yellow?&style=flat" alt="Projects"/>
+<img src="https://img.shields.io/badge/Projects-8-yellow?&style=flat" alt="Projects"/>
 </a>
     <br />
     <br />
