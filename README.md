@@ -7,13 +7,10 @@
   <img src="https://visitor-badge.glitch.me/badge?page_id=github.com/William9923" alt="Visitor">
     <a href="https://www.linkedin.com/in/williamong9923/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://medium.com/@williamong1400" target="_blank"><img src="https://img.shields.io/badge/Medium-gray.svg?&style=flat&logo=medium&logoColor=white" alt="Medium"></a>
-
-<a href="http://william.github.io" target="_blank">
+<a href="https://williamong.vercel.app" target="_blank"><img src="https://img.shields.io/static/v1?label=Website&message=williamong&color=%230076D6&style=flat-square&logo=firefox" /></a>
 <img src="https://img.shields.io/badge/Projects-8-yellow?&style=flat" alt="Projects"/>
-</a>
     <br />
     <br />
-
   </p>
 
 
@@ -59,10 +56,9 @@
 
 <h3><strong>Current culture fit:</strong></h3>
 
-- 🔭 I’m currently fully deep diving on: Backend Engineering (Go, Java) and learning other technology concepts like message queue and caching and their implementation.
+- 🔭 I’m currently focusing my career on: Backend Engineering (Go, Java).
 - 🌱 I'm also interested in data science. In fact, my undergraduate thesis is related to sentiment analysis using generative approach (will be available publicly soon!).
-- ⚡ I’m currently learning: Scalability, Observability and System Design to increase my capabilities as software engineer (especially on backend)
-- 👯 I’m looking to work as: Software Engineer (Backend / Fullstack). Also open for Machine Learning Engineer...
+- ⚡ I’m currently learning: Scalability, Observability and System Design to increase my capabilities as software engineer (especially on backend).
 - 💬 Ask me about: Code, life and games :D
 - 📫 How to reach me: williamong1400@gmail.com
 
