@@ -13,11 +13,116 @@
     <br />
   </p>
 
-
-
-
-
 > I'm [William](https://william9923.github.io/), currently a fourth year student as an Informatics Engineering undergraduate of year 2018. Feel free to get in touch with me 😄.
+
+<h3><strong>Easy To Use Templates</strong></h3>
+
+<table>
+  <tr>
+    <th>No</th>
+    <th>Lang / Framework</th>
+    <th>Repo</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Typescript (Express)</td>
+    <td valign="top">
+        <a href="https://github.com/William9923/Express-Quickstart"><img height="100" src="https://github-readme-stats.vercel.app/api/pin/?username=William9923&repo=Express-Quickstart&show_owner=true" alt="express-quickstart"></a>
+    </td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Golang</td>
+    <td valign="top">
+    <a href="https://github.com/William9923/easy-go"><img height="100" src="https://github-readme-stats.vercel.app/api/pin/?username=William9923&repo=easy-go&show_owner=true" alt="go-quickstart"></a>
+    </td>
+  </tr>
+</table>
+
+
+<h3><strong>Learn Software Engineering With Me!</strong></h3>
+
+Just a various proof of concept projects to make me occupied during weekend!
+
+<table>
+  <tr>
+    <th>No</th>
+    <th>Title</th>
+    <th>Repo</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Upload & Data Validation System</td>
+    <td valign="top">
+    <a href="https://github.com/William9923/bulk-upload-poc"></a>
+        <img height="100" src="https://github-readme-stats.vercel.app/api/pin/?username=William9923&repo=bulk-upload-poc&show_owner=true" alt="Bulk Upload PoC">
+    </td>
+  </tr>
+</table>
+
+
+<h3><strong>School Projects</strong></h3>
+
+Various school projects that really fun!
+
+<table>
+  <tr>
+    <th>No</th>
+    <th>Name</th>
+    <th>Tech Stack</th>
+    <th>Repo</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Workout Apps</td>
+    <td>Android, Kotlin</td>
+    <td valign="top">
+    <a href="https://github.com/William9923/WorkingOut">
+        <img height="100" src="https://github-readme-stats.vercel.app/api/pin/?username=William9923&repo=WorkingOut&show_owner=true" alt="WorkingOut">
+    </a>
+    </td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Tanks Extended</td>
+    <td>C#, Unity</td>
+    <td valign="top">
+    <a href="https://github.com/William9923/tanks-extended">
+        <img height="100" src="https://github-readme-stats.vercel.app/api/pin/?username=William9923&repo=tanks-extended&show_owner=true" alt="Tanks Extended">
+    </a>
+    </td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>Duel FX</td>
+    <td>Java</td>
+    <td valign="top">
+    <a href="https://github.com/William9923/DuelFX">
+        <img height="100" src="https://github-readme-stats.vercel.app/api/pin/?username=William9923&repo=duelfx&show_owner=true" alt="DuelFX">
+    </a>
+    </td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>WebCAD</td>
+    <td>Javascript, WebGL</td>
+    <td valign="top">
+    <a href="https://github.com/William9923/webcad">
+        <img height="100" src="https://github-readme-stats.vercel.app/api/pin/?username=William9923&repo=webcad&show_owner=true" alt="WebCAD">
+    </a>
+    </td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>War</td>
+    <td>C++</td>
+    <td valign="top">
+    <a href="https://github.com/William9923/war">
+        <img height="100" src="https://github-readme-stats.vercel.app/api/pin/?username=William9923&repo=war&show_owner=true" alt="WAR">
+    </a>
+    </td>
+  </tr>
+</table>
 
 
 <h3><strong>Languages and Tools that I familiar with</strong></h3>
