@@ -54,8 +54,9 @@ Just a various proof of concept projects to make me occupied during weekend!
     <td>1</td>
     <td>Upload & Data Validation System</td>
     <td valign="top">
-    <a href="https://github.com/William9923/bulk-upload-poc"></a>
+    <a href="https://github.com/William9923/bulk-upload-poc">
         <img height="100" src="https://github-readme-stats.vercel.app/api/pin/?username=William9923&repo=bulk-upload-poc&show_owner=true" alt="Bulk Upload PoC">
+    </a>
     </td>
   </tr>
 </table>
