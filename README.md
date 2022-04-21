@@ -125,6 +125,27 @@ Various school projects that really fun!
   </tr>
 </table>
 
+<h3><strong>Data Science</strong></h3>
+
+Because why not?
+
+<table>
+  <tr>
+    <th>No</th>
+    <th>Title</th>
+    <th>Repo</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Ecommerce Analysis</td>
+    <td valign="top">
+    <a href="https://github.com/William9923/EcommerceAnalytics">
+        <img height="100" src="https://github-readme-stats.vercel.app/api/pin/?username=William9923&repo=EcommerceAnalytics&show_owner=true" alt="Ecommerce Analytics">
+    </a>
+    </td>
+  </tr>
+</table>
+
 
 <h3><strong>Languages and Tools that I familiar with</strong></h3>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python"></code>  
