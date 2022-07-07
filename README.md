@@ -15,7 +15,7 @@
 
 <p>Welcome to my page! </br> I'm William, an aspiring software engineer. Recently graduated from Bandung Institute of Technology as a Computer Science student. Feel free to get in touch with me 😄.</p>
 
-<h3>Familiar tech stack</h3>
+<h3><strong>Familiar Tech Stack:</strong></h3>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python"></code>  
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" alt="go"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" alt="java"></code>
@@ -32,6 +32,30 @@
 <code><img height="20" src="https://avatars.githubusercontent.com/u/474892?s=200&v=4" alt="graylog"></code>
 <code><img height="20" src="https://camo.githubusercontent.com/35df65972dd10241edb2bdbd1f49f7f52b83f909b32d91f76aa6bd0c6b976ea5/68747470733a2f2f6e73712e696f2f7374617469632f696d672f6e73715f626c75652e706e67" alt="nsq"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git"></code>
+
+<h3><strong>Open Source Contribution</strong></h3>
+
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>🎁 Projects</b></td>
+      <td><b>⭐ Stars</b></td>
+      <td><b>📚 Forks</b></td>
+      <td><b>🛎 Issues</b></td>
+      <td><b>📬 Pull requests</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/elebumm/RedditVideoMakerBot"><b>RedditVideoMakerBot</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/elebumm/RedditVideoMakerBot?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/elebumm/RedditVideoMakerBot?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/elebumm/RedditVideoMakerBot?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/elebumm/RedditVideoMakerBot?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+  </tbody>
+</table>
+
 
 
 <h3><strong>My Stats:</strong></h3>
