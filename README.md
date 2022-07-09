@@ -43,6 +43,7 @@
       <td><b>📚 Forks</b></td>
       <td><b>🛎 Issues</b></td>
       <td><b>📬 Pull requests</b></td>
+     <td><b>💼 Role</b></td>
     </tr>
   </thead>
   <tbody>
@@ -52,6 +53,7 @@
       <td><img alt="Forks" src="https://img.shields.io/github/forks/elebumm/RedditVideoMakerBot?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/elebumm/RedditVideoMakerBot?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/elebumm/RedditVideoMakerBot?style=flat-square&labelColor=343b41"/></td>
+     <td><img alt="Maintainer" src="https://img.shields.io/badge/role-Maintainer-green"/></td>
     </tr>
   </tbody>
 </table>
