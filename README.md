@@ -58,21 +58,17 @@
 
 
 
-<h3><strong>My Stats:</strong></h3>
-<table>
-  <tr>
-  <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=William9923&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515&theme=dark"/></td>
-    <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=William9923&hide=jupyter%20notebook,c%23,html&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/></td>
-    
-  </tr>
-</table>
 
-<table>
-  <tr>
-    <td valign="top"><img src="metrics.plugin.habits.charts.svg"/></td>
-    <td valign="top"><img src="metrics.plugin.isocalendar.svg"/></td>
-  </tr>
-</table>
+<h3><strong>My Stats:</strong></h3>
+<div align="center"> 
+<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=William9923&amp;theme=github-dark-blue&amp;hide_border=true" alt="GitHub Streak"></a>
+
+<a href="https://github.com/William9923">
+  <img src="https://github-readme-stats.vercel.app/api?username=William9923&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515&theme=dark" /></a>
+  </div> 
+<br/>  
+
+<br/>  
 
 <h3><strong>Current culture fit:</strong></h3>
 
