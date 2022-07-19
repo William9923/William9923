@@ -16,7 +16,7 @@
 <p>Welcome to my page! </br> I'm William, an aspiring software engineer. Recently graduated from Bandung Institute of Technology as a Computer Science student. Feel free to get in touch with me 😄.</p>
 
 <h3><strong>Familiar Tech Stack:</strong></h3>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python"></code>  
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" alt="go"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" alt="java"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript"></code>
@@ -62,15 +62,15 @@
 
 
 <h3><strong>My Stats:</strong></h3>
-<div align="center"> 
+<div align="center">
 <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=William9923&amp;theme=github-dark-blue&amp;hide_border=true" alt="GitHub Streak"></a>
 
 <a href="https://github.com/William9923">
   <img src="https://github-readme-stats.vercel.app/api?username=William9923&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515&theme=dark" /></a>
-  </div> 
-<br/>  
+  </div>
+<br/>
 
-<br/>  
+<br/>
 
 <h3><strong>Current culture fit:</strong></h3>
 
@@ -80,30 +80,6 @@
 - 📫 How to reach me: williamong1400@gmail.com
 
 <br>
-
-<h3><strong>My Project Templates</strong></h3>
-
-<table>
-  <tr>
-    <th>No</th>
-    <th>Lang / Framework</th>
-    <th>Repo</th>
-  </tr>
-  <tr>
-    <td>1</td>
-    <td>Typescript (Express)</td>
-    <td valign="top">
-        <a href="https://github.com/William9923/Express-Quickstart"><img height="100" src="https://github-readme-stats.vercel.app/api/pin/?username=William9923&repo=Express-Quickstart&show_owner=true" alt="express-quickstart"></a>
-    </td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>Golang</td>
-    <td valign="top">
-    <a href="https://github.com/William9923/easy-go"><img height="100" src="https://github-readme-stats.vercel.app/api/pin/?username=William9923&repo=easy-go&show_owner=true" alt="go-quickstart"></a>
-    </td>
-  </tr>
-</table>
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>every day</b> to update the my github stats!
