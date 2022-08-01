@@ -1,6 +1,6 @@
 <p align="center">
  <img width="100px" src="avatar.jpg" align="center" alt="GitHub Readme Stats" />
- <h2 align="center"><code> William's Readme Profile</code></h2>
+ <h1 align="center">Hey! I'm William <img src="https://raw.githubusercontent.com/Pocco81/Pocco81/main/assets/hi.gif?raw=true" width="30px" height="30px"></h1>
  <p align="center">Waiting to evolve into <b>gyarados!</b></p>
 </p>
   <p align="center">
@@ -12,8 +12,16 @@
     <br />
     <br />
   </p>
+<p align="center">
+  <img alig src="https://github-profile-trophy.vercel.app/?username=Pocco81&theme=onedark&&margin-w=12&column=6&rank=SSS,SS,S,AAA,AA,A,B,C&no-frame=true" alt="Trophies" />
+</p>
 
-<p>Welcome to my page! </br> I'm William, an aspiring software engineer. Recently graduated from Bandung Institute of Technology as a Computer Science student. Feel free to get in touch with me 😄.</p>
+<h2><strong>About Me:</strong></h2>
+
+- 🔭 I’m currently focusing  on: Go, Python (Backend) and JS.
+- ⚡ At the moment learning : Scalability, Observability, and Concurrency in Distributed System.
+- 🌱 My undergraduate thesis is aspect based sentiment analysis using generative approach.
+- 📫 How to reach me: williamong1400@gmail.com
 
 <h3><strong>Familiar Tech Stack:</strong></h3>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python"></code>  
@@ -72,38 +80,11 @@
 
 <br/>  
 
-<h3><strong>Current culture fit:</strong></h3>
 
-- 🔭 I’m currently focusing my career on: Software Engineering, especially on Backend (Go, Java).
-- 🌱 My undergraduate thesis is related to sentiment analysis using generative approach.
-- ⚡ I’m currently learning: Scalability, Observability and System Design and best practice in backend software development.
-- 📫 How to reach me: williamong1400@gmail.com
 
 <br>
 
-<h3><strong>My Project Templates</strong></h3>
+<h3><strong>My Personal Work Setup (Dotfile)</strong></h3>
 
-<table>
-  <tr>
-    <th>No</th>
-    <th>Lang / Framework</th>
-    <th>Repo</th>
-  </tr>
-  <tr>
-    <td>1</td>
-    <td>Typescript (Express)</td>
-    <td valign="top">
-        <a href="https://github.com/William9923/Express-Quickstart"><img height="100" src="https://github-readme-stats.vercel.app/api/pin/?username=William9923&repo=Express-Quickstart&show_owner=true" alt="express-quickstart"></a>
-    </td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>Golang</td>
-    <td valign="top">
-    <a href="https://github.com/William9923/easy-go"><img height="100" src="https://github-readme-stats.vercel.app/api/pin/?username=William9923&repo=easy-go&show_owner=true" alt="go-quickstart"></a>
-    </td>
-  </tr>
-</table>
+![Dotfiles](https://github-readme-stats.vercel.app/api/pin/?username=William9923&repo=dotfiles&show_owner=true)
 
-------------
-<p align="center">This <i>README</i> file is generated <b>every day</b> to update the my github stats!
