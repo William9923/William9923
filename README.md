@@ -77,12 +77,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=William9923&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515&theme=dark" /></a>
   </div> 
 <br/>  
-
-<br/>  
-
-
-
-<br>
+<img align="right" height=300px width=300px alt="Catpuccino gif" src="pokemon-gyarados.gif" />
 
 <h3><strong>My Personal Work Setup (Dotfile)</strong></h3>
 
