@@ -79,7 +79,7 @@
 <br/>  
 <img align="right" height=300px width=300px alt="Catpuccino gif" src="pokemon-gyarados.gif" />
 
-<h3><strong>My Personal Work Setup (Dotfile)</strong></h3>
+<h3><strong>My Personal IDE </strong></h3>
 
-![Dotfiles](https://github-readme-stats.vercel.app/api/pin/?username=William9923&repo=dotfiles&show_owner=true)
+![Nvim](https://github-readme-stats.vercel.app/api/pin/?username=William9923&repo=gyarados.nvim&show_owner=true)
 
