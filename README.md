@@ -7,7 +7,7 @@
   <img src="https://visitor-badge.glitch.me/badge?page_id=github.com/William9923" alt="Visitor">
     <a href="https://www.linkedin.com/in/williamong9923/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://medium.com/@williamong1400" target="_blank"><img src="https://img.shields.io/badge/Medium-gray.svg?&style=flat&logo=medium&logoColor=white" alt="Medium"></a>
-<a href="https://william9923.github.io" target="_blank"><img src="https://img.shields.io/static/v1?label=Website&message=williamong&color=%230076D6&style=flat-square&logo=firefox" /></a>
+<a href="https://william9923.github.io" target="_blank"><img src="https://img.shields.io/static/v1?label=Website&message=github.io&color=%230076D6&style=flat-square&logo=firefox" /></a>
 <img src="https://img.shields.io/badge/Projects-8-yellow?&style=flat" alt="Projects"/>
     <br />
     <br />
@@ -18,7 +18,8 @@
 
 <h2><strong>About Me:</strong></h2>
 
-- 🔭 I’m currently focusing  on: Go, Python (Backend) and JS.
+- 🔭 I’m currently focusing on backend engineering: Go, Python (Backend) and JS.
+- 🚧 Portofolio migration to v2 (from v1) is in progress
 - ⚡ At the moment learning : Scalability, Observability, and Concurrency in Distributed System.
 - 🌱 My undergraduate thesis is aspect based sentiment analysis using generative approach.
 - 📫 How to reach me: williamong1400@gmail.com
