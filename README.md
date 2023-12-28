@@ -15,7 +15,6 @@
     <br />
 </p>
 
-
 <!-- Github Trophies  -->
 <p align="center">
   <img alig src="https://github-profile-trophy.vercel.app/?username=Pocco81&theme=onedark&&margin-w=12&column=6&rank=SSS,SS,S,AAA,AA,A,B,C&no-frame=true" alt="Trophies" />
@@ -25,22 +24,22 @@
 <h2><strong>About Me:</strong></h2>
 
 - Pardon my github stats, been using Gitlab for works nowadays :D
-- For first 3 month of 2024, will be focusing on 3 main things: 
-    1. Improving personal technical writing
-    2. Learning more network & infra-related stuff (mostly concepts => then implemented on GCP)
-    3. Improving effective communication with fellow engineer & non-engineer
+- For first 3 month of 2024, will be focusing on 3 main things:
+  1. Improving personal technical writing
+  2. Learning more network & infra-related stuff (mostly concepts => then implemented on GCP)
+  3. Improving effective communication with fellow engineer & non-engineer
 - Currently working as Software Engineer at [Gojek](https://www.linkedin.com/company/gojek/) (a ride hriling app), mainly working on improving order allocation by improving reliability and building better experience on onboarding new business requirements.
 - Some facts about me (for work):
-    1. Mainly working with Golang, Lua, Python.
-    2. Using Postgresql, Etcd, and redis for the datastore
-    2. For the infra, we use GKE (GCP) for the kubernetes cluster, version
-       controlled using terraform (IaC tools).
-    3. Still somewhat familiar with things that I had been working in the past
-       (like Java, MySQL, etc...)
+  1. Mainly working with Golang, Lua, Python.
+  2. Using Postgresql, Etcd, and redis for the datastore
+  3. For the infra, we use GKE (GCP) for the kubernetes cluster, version
+     controlled using terraform (IaC tools).
+  4. Still somewhat familiar with things that I had been working in the past
+     (like Java, MySQL, etc...)
 - Few books that I've been reading for some time:
-    1. [Software Design by Example](https://third-bit.com/sdxpy/)
-    2. [Terraform Up and Running (3rd Edition)](https://digtvbg.com/files/LINUX/Brikman Y. Terraform. Up and Running. Writing...as Code 3ed 2022.pdf)
-    3. [Managing Kubernetes](https://www.oreilly.com/library/view/managing-kubernetes/9781492033905/)
+  1. [Software Design by Example](https://third-bit.com/sdxpy/)
+  2. [Terraform Up and Running](https://digtvbg.com/files/LINUX/Brikman Y. Terraform. Up and Running. Writing...as Code 3ed 2022.pdf)
+  3. [Managing Kubernetes](https://www.oreilly.com/library/view/managing-kubernetes/9781492033905/)
 - My main hobby is improving (mostly just tweaking) my neovim configs, reading open source
   projects that I use in work, exploring random
   stuff, going to gym (just enough to not get backpain lol), and watching anime
@@ -87,7 +86,7 @@
 <a href="https://github.com/William9923">
   <img src="https://github-readme-stats.vercel.app/api?username=William9923&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515&theme=dark" /></a>
   </div> 
-<br/>  
+<br/>
 
 <!-- Project Contribution. TODO: change into personal project here!  -->
 <h3><strong>Open Source Contribution</strong></h3>
@@ -114,5 +113,3 @@
     </tr>
   </tbody>
 </table>
-
-
