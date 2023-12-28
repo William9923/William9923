@@ -38,7 +38,7 @@
      (like Java, MySQL, etc...)
 - Few books that I've been reading for some time:
   1. [Software Design by Example](https://third-bit.com/sdxpy/)
-  2. [Terraform Up and Running (3rd Edition)]('https://digtvbg.com/files/LINUX/Brikman Y. Terraform. Up and Running. Writing...as Code 3ed 2022.pdf')
+  2. [Terraform Up and Running (3rd Edition)](<https://digtvbg.com/files/LINUX/Brikman Y. Terraform. Up and Running. Writing...as Code 3ed 2022.pdf>)
   3. [Managing Kubernetes](https://www.oreilly.com/library/view/managing-kubernetes/9781492033905/)
 - My main hobby is improving (mostly just tweaking) my neovim configs, reading open source
   projects that I use in work, exploring random
