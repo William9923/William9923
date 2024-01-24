@@ -40,6 +40,7 @@
   1. [Software Design by Example](https://third-bit.com/sdxpy/)
   2. [Terraform Up and Running (3rd Edition)](<https://digtvbg.com/files/LINUX/Brikman Y. Terraform. Up and Running. Writing...as Code 3ed 2022.pdf>)
   3. [Managing Kubernetes](https://www.oreilly.com/library/view/managing-kubernetes/9781492033905/)
+  4. [100 Go Mistake and How to Avoid them](https://100go.co/)
 - My main hobby is improving (mostly just tweaking) my neovim configs, reading open source
   projects that I use in work, exploring random
   stuff, going to gym (just enough to not get backpain lol), and watching anime
