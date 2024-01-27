@@ -28,7 +28,7 @@
   1. Improving personal technical writing
   2. Learning more network & infra-related stuff (mostly concepts => then implemented on GCP)
   3. Improving effective communication with fellow engineer & non-engineer
-- Currently working as Software Engineer at [Gojek](https://www.linkedin.com/company/gojek/) (a ride hriling app), mainly working on improving order allocation by improving reliability and building better experience on onboarding new business requirements.
+- Currently working as Software Engineer (Platform) at [Gojek](https://www.linkedin.com/company/gojek/) (a ride hriling app), mainly working on improving order allocation by increasing the reliability and building tools for better experience on onboarding new business requirements.
 - Some facts about me (for work):
   1. Mainly working with Golang, Lua, Python.
   2. Using Postgresql, Etcd, and redis for the datastore
