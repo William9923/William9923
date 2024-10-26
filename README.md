@@ -24,19 +24,19 @@
 <h2><strong>About Me:</strong></h2>
 
 - Pardon my github stats, been using Gitlab for works nowadays :D
-- For first 3 month of 2024, will be focusing on 3 main things:
+- For the last 9 months of 2024, I had been focusing on these 3 main things:
   1. Improving personal technical writing
   2. Learning more network & infra-related stuff (mostly concepts => then implemented on GCP)
   3. Improving effective communication with fellow engineer & non-engineer
 - Currently working as Software Engineer (Platform) at [Gojek](https://www.linkedin.com/company/gojek/) (a ride hriling app), mainly working on improving order allocation by increasing the reliability and building tools for better experience on onboarding new business requirements.
 - Some facts about me (for work):
   1. Mainly working with Golang, Lua, Python.
-  2. Using Postgresql, Etcd, and redis for the datastore
+  2. Using Postgresql, MySQL, and redis for the datastore
   3. For the infra, we use GKE (GCP) for the kubernetes cluster, version
      controlled using terraform (IaC tools).
   4. Still somewhat familiar with things that I had been working in the past
      (like Java, MySQL, etc...)
-- Few books that I've been reading for some time (helpful when my company provide physical library books :D):
+- Few books that I've been reading sporadically this year:
   1. [Software Design by Example](https://third-bit.com/sdxpy/)
   2. [Terraform Up and Running (3rd Edition)](<https://digtvbg.com/files/LINUX/Brikman Y. Terraform. Up and Running. Writing...as Code 3ed 2022.pdf>)
   3. [Managing Kubernetes](https://www.oreilly.com/library/view/managing-kubernetes/9781492033905/)
