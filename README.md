@@ -39,22 +39,15 @@ william := Developer{
     Role:      "Software Engineer L3 @ Gojek",
     Languages: []string{"Go", "Python", "TypeScript"},
     Interests: []string{
-        "Cloud-native architectures",
-        "Developer experience",
-        "Open source contributions",
-        "Building CLI tools",
+        "Building Cloud-native architectures",
+        "Improving Developer experience",
+        "Learning more intuitive UI",
+        "Trying to get into Open source contributions",
+        "Building useful CLI tools",
     },
     Neovim: true, // I like it!!!
 }
 ```
-
-### 💭 Ask Me About
-- **Go** performance optimization and design patterns
-- **Kubernetes** cluster management and GitOps workflows  
-- **Neovim** configuration (I've spent way too much time on this)
-- Building **CLI tools** with modern UX (check out my `igrep` project!)
-- **Cloud architecture** on GCP and infrastructure as code
-- **Developer productivity** tools and workflows
 
 ### 🔧 Development Environment
 ```lua
@@ -106,34 +99,9 @@ Always open to discussing tech, sharing knowledge, or geeking out about develope
 <code><img height="20" src="https://avatars.githubusercontent.com/u/7195757?s=48&v=4" alt="Grafana"></code>
 <code><img height="20" src="https://avatars.githubusercontent.com/u/47359?s=48&v=4" alt="Kafka"></code>
 
-<!-- Featured Projects -->
-<h3><strong>🚀 Featured Projects:</strong></h3>
-
-### Recent Projects
-<a href="https://github.com/William9923/igrep" target="_blank">
- <img src="https://github-readme-stats.vercel.app/api/pin/?username=William9923&repo=igrep&show_owner=true&theme=dark&bg_color=151515" />
-</a>
-
-<a href="https://github.com/William9923/yuruyomi" target="_blank">
- <img src="https://github-readme-stats.vercel.app/api/pin/?username=William9923&repo=yuruyomi&show_owner=true&theme=dark&bg_color=151515" />
-</a>
 
 <!-- Coding Stats -->
 <h3><strong>📊 Coding Activity:</strong></h3>
-
-```text
-🌙 Night Owl - Most productive during late evening sessions
-⚡ Current streak: Building CLI tools and optimizing workflows
-🎯 Focus areas: Go backends, Rust systems programming, Neovim configs
-```
-
-<!-- Random Fun Facts -->
-<h3><strong>🎲 Random Personal Facts:</strong></h3>
-
-- 🐍 Started with Python, fell in love with Go's simplicity (and due to work duh!!)
-- 🔧 Spent lots of hours perfecting my Neovim setup (at this points it's a hobby / time waster)
-- ☕ Instead of coffee, I like tea / water for better focus
-- 🌅 Early morning commits hit different (when I can wake up early)
 
 <!-- Neovim configs  -->
 <h3><strong>⚙️ My Personal Neovim Configs: </strong></h3>
