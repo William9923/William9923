@@ -10,109 +10,170 @@
     <a href="https://www.linkedin.com/in/williamong9923/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
     <a href="https://medium.com/@williamong1400" target="_blank"><img src="https://img.shields.io/badge/Medium-gray.svg?&style=flat&logo=medium&logoColor=white" alt="Medium"></a>
     <a href="https://william9923.github.io" target="_blank"><img src="https://img.shields.io/static/v1?label=Website&message=github.io&color=%230076D6&style=flat-square&logo=firefox" /></a>
-    <a href="https://williamong.netlify.app/" target="_blank"><img src="https://img.shields.io/static/v1?label=blog&message=5&color=%250076F6&style=flat-square&logo=hand" alt="blog" /></a>
+    <a href="mailto:williamong.job@gmail.com" target="_blank"><img src="https://img.shields.io/static/v1?label=Email&message=Contact&color=%23D14836&style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
     <br />
     <br />
 </p>
 
 <!-- Github Trophies  -->
 <p align="center">
-  <img alig src="https://github-profile-trophy.vercel.app/?username=Pocco81&theme=onedark&&margin-w=12&column=6&rank=SSS,SS,S,AAA,AA,A,B,C&no-frame=true" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=William9923&theme=onedark&margin-w=12&column=6&rank=SSS,SS,S,AAA,AA,A,B,C&no-frame=true" alt="GitHub Trophies" />
 </p>
 
-<!-- Personal Information / Details  -->
+<!-- Professional Introduction -->
 <h2><strong>About Me:</strong></h2>
 
-- Pardon my github stats, been using Gitlab for works nowadays :D
-- For the last 9 months of 2024, I had been focusing on these 4 main things:
-  1. Improving personal technical writing
-  2. Learning more network & infra-related stuff (mostly concepts => then implemented on GCP)
-  3. Improving effective communication with fellow engineer & non-engineer
-  4. Deep dive even further on server side engineering (backend), with a bit of frontend related works (building dashboard :D)
-- Currently working as Software Engineer (Platform) at [Gojek](https://www.linkedin.com/company/gojek/) (a ride hriling app), mainly working on improving order allocation by increasing the reliability and building tools for better experience on onboarding new business requirements.
-- Some facts about me (for work):
-  1. Mainly working with Golang, Lua, Python.
-  2. Using Postgresql, MySQL, and redis for the datastore
-  3. For the infra, we use GKE (GCP) for the kubernetes cluster, version
-     controlled using terraform (IaC tools).
-  4. Still somewhat familiar with things that I had been working in the past
-     (like Java, MySQL, etc...)
-- Few books that I've been reading sporadically this year:
-  1. [Software Design by Example](https://third-bit.com/sdxpy/)
-  2. [Terraform Up and Running (3rd Edition)](<https://digtvbg.com/files/LINUX/Brikman Y. Terraform. Up and Running. Writing...as Code 3ed 2022.pdf>)
-  3. [Managing Kubernetes](https://www.oreilly.com/library/view/managing-kubernetes/9781492033905/)
-  4. [Building Microservice](https://github.com/rootusercop/Free-DevOps-Books-1/blob/master/book/Building%20Microservices%20-%20Designing%20Fine-Grained%20Systems.pdf)
-  5. Release It!: Design and Deploy Production-Ready Software
-- My main hobby is improving (mostly just tweaking) my neovim configs, reading open source
-  projects that I use in work, exploring random
-  stuff, going to gym (just enough to not get backpain lol), and watching anime
-- Feel free to reach me about anything via [linkedin](https://www.linkedin.com/in/williamong9923/) or by
-  [email](mailto:williamong1400@gmail.com)
+Hi, I'm William - **Software Engineer @ Gojek** who loves building scalable systems and obsessing over developer tools! 
+
+I spend my days writing mostly on **Go**, **Typescript** and **Python** designing **cloud-native architectures** and sometime also crafting UIs for user. Always keen exploring new tech and sharing what I learn.
+
+```go
+type Developer struct {
+    Role         string   `json:"role"`
+    Languages    []string `json:"primary_languages"`
+    Interests    []string `json:"current_interests"`
+    Neovim       bool     `json:"neovim_enthusiast"`
+}
+
+william := Developer{
+    Role:      "Software Engineer L3 @ Gojek",
+    Languages: []string{"Go", "Python", "TypeScript"},
+    Interests: []string{
+        "Cloud-native architectures",
+        "Developer experience",
+        "Open source contributions",
+        "Building CLI tools",
+    },
+    Neovim: true, // I like it!!!
+}
+```
+
+### 💭 Ask Me About
+- **Go** performance optimization and design patterns
+- **Kubernetes** cluster management and GitOps workflows  
+- **Neovim** configuration (I've spent way too much time on this)
+- Building **CLI tools** with modern UX (check out my `igrep` project!)
+- **Cloud architecture** on GCP and infrastructure as code
+- **Developer productivity** tools and workflows
+
+### 🔧 Development Environment
+```lua
+-- My daily drivers
+neovim = "snorlax.nvim"  -- My own setup from lazyvim
+terminal = "alacritty + tmux"
+shell = "zsh"
+```
+
+**Personal Interests:**
+- 🛠️ Tweaking my [neovim configs](#-my-personal-neovim-configs) (it's an addiction!)
+- 📚 Reading technical books and exploring open source projects
+- 💪 Going to gym (just enough to avoid back pain lol)
+- 🎌 Reading manga and exploring random tech stuff
+
+Always open to discussing tech, sharing knowledge, or geeking out about developer tools! Feel free to connect! 🚀
 
 <!-- Tech Stack  -->
-<h3><strong>Familiar Tech Stack:</strong></h3>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" alt="go"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python"></code>  
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" alt="java"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/lua/lua.png" alt="lua"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/01ea2a586e5da744792d0ccfce2f68b861f29301/topics/kubernetes/kubernetes.png" alt="kubernetes"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/d73b58ded658144cd29547485b8537306012eb86/topics/elasticsearch/elasticsearch.png" alt="elastic-search"></code>
-<code><img height="20" src="https://avatars.githubusercontent.com/u/7195757?s=48&v=4" alt="grafana"></code>
-<code><img height="20" src="https://camo.githubusercontent.com/35df65972dd10241edb2bdbd1f49f7f52b83f909b32d91f76aa6bd0c6b976ea5/68747470733a2f2f6e73712e696f2f7374617469632f696d672f6e73715f626c75652e706e67" alt="nsq"></code>
-<code><img height="20" src="https://avatars.githubusercontent.com/u/47359?s=48&v=4" alt="kafka"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="mysql"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="postgresql"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="typescript"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" alt="flask"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git"></code>
+<h3><strong>⚡ Tech Stack:</strong></h3>
+
+**Primary Languages:**
+<br/>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" alt="Go"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" alt="Java"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/lua/lua.png" alt="Lua"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png" alt="Rust"></code>
+
+**Frontend & UI:**
+<br/>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="TypeScript"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" alt="Vue"></code>
+
+**Infrastructure & Cloud:**
+<br/>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/01ea2a586e5da744792d0ccfce2f68b861f29301/topics/kubernetes/kubernetes.png" alt="Kubernetes"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terraform/terraform.png" alt="Terraform"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/google-cloud/google-cloud.png" alt="GCP"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="Docker"></code>
+
+**Data & Observability:**
+<br/>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostgreSQL"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redis/redis.png" alt="Redis"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/d73b58ded658144cd29547485b8537306012eb86/topics/elasticsearch/elasticsearch.png" alt="Elasticsearch"></code>
+<code><img height="20" src="https://avatars.githubusercontent.com/u/7195757?s=48&v=4" alt="Grafana"></code>
+<code><img height="20" src="https://avatars.githubusercontent.com/u/47359?s=48&v=4" alt="Kafka"></code>
+
+<!-- Featured Projects -->
+<h3><strong>🚀 Featured Projects:</strong></h3>
+
+### Recent Projects
+<a href="https://github.com/William9923/igrep" target="_blank">
+ <img src="https://github-readme-stats.vercel.app/api/pin/?username=William9923&repo=igrep&show_owner=true&theme=dark&bg_color=151515" />
+</a>
+
+<a href="https://github.com/William9923/yuruyomi" target="_blank">
+ <img src="https://github-readme-stats.vercel.app/api/pin/?username=William9923&repo=yuruyomi&show_owner=true&theme=dark&bg_color=151515" />
+</a>
+
+<!-- Coding Stats -->
+<h3><strong>📊 Coding Activity:</strong></h3>
+
+```text
+🌙 Night Owl - Most productive during late evening sessions
+⚡ Current streak: Building CLI tools and optimizing workflows
+🎯 Focus areas: Go backends, Rust systems programming, Neovim configs
+```
+
+<!-- Random Fun Facts -->
+<h3><strong>🎲 Random Personal Facts:</strong></h3>
+
+- 🐍 Started with Python, fell in love with Go's simplicity (and due to work duh!!)
+- 🔧 Spent lots of hours perfecting my Neovim setup (at this points it's a hobby / time waster)
+- ☕ Instead of coffee, I like tea / water for better focus
+- 🌅 Early morning commits hit different (when I can wake up early)
 
 <!-- Neovim configs  -->
-<h3><strong>My Personal Neovim Configs: </strong></h3>
-<p>Second Iteration:</p>
+<h3><strong>⚙️ My Personal Neovim Configs: </strong></h3>
+<p><strong>Current (Snorlax):</strong></p>
 <a href="https://github.com/William9923/snorlax.nvim" target="_blank">
- <img src="https://github-readme-stats.vercel.app/api/pin/?username=William9923&repo=snorlax.nvim&show_owner=true" />
+ <img src="https://github-readme-stats.vercel.app/api/pin/?username=William9923&repo=snorlax.nvim&show_owner=true&theme=dark&bg_color=151515" />
 </a>
 
-<p>First Iteration:</p>
-<a href="https://github.com/William9923/gyarados.nvim" target="_blank">
- <img src="https://github-readme-stats.vercel.app/api/pin/?username=William9923&repo=gyarados.nvim&show_owner=true" />
-</a>
 
 <!-- Github stats  -->
-<h3><strong>My Stats:</strong></h3>
+<h3><strong>📊 GitHub Stats:</strong></h3>
 <div align="center"> 
-<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=William9923&amp;theme=github-dark-blue&amp;hide_border=true" alt="GitHub Streak"></a>
+<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=William9923&theme=github-dark-blue&hide_border=true" alt="GitHub Streak"></a>
 
 <a href="https://github.com/William9923">
-  <img src="https://github-readme-stats.vercel.app/api?username=William9923&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515&theme=dark" /></a>
-  </div> 
+  <img src="https://github-readme-stats.vercel.app/api?username=William9923&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515&theme=dark" alt="William's GitHub Stats" />
+</a>
+</div> 
 <br/>
 
-<!-- Project Contribution. TODO: change into personal project here!  -->
-<h3><strong>Open Source Contribution</strong></h3>
+<!-- Current Learning -->
+<h3><strong>📚 Currently Reading:</strong></h3>
 
-<table>
-  <thead align="center">
-    <tr border: none;>
-      <td><b>🎁 Projects</b></td>
-      <td><b>⭐ Stars</b></td>
-      <td><b>📚 Forks</b></td>
-      <td><b>🛎 Issues</b></td>
-      <td><b>📬 Pull requests</b></td>
-     <td><b>💼 Role</b></td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://github.com/elebumm/RedditVideoMakerBot"><b>RedditVideoMakerBot</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/elebumm/RedditVideoMakerBot?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/elebumm/RedditVideoMakerBot?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/elebumm/RedditVideoMakerBot?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/elebumm/RedditVideoMakerBot?style=flat-square&labelColor=343b41"/></td>
-     <td><img alt="Maintainer" src="https://img.shields.io/badge/role-Contributor-green"/></td>
-    </tr>
-  </tbody>
-</table>
+Recent technical books I've been exploring:
+1. [Software Design by Example](https://third-bit.com/sdxpy/) - Building software systems from scratch
+2. [Terraform Up and Running (3rd Edition)](https://www.oreilly.com/library/view/terraform-up/9781492046899/) - Infrastructure as Code best practices
+3. [Managing Kubernetes](https://www.oreilly.com/library/view/managing-kubernetes/9781492033905/) - Production K8s operations
+4. [Building Microservices](https://www.oreilly.com/library/view/building-microservices/9781491950340/) - Designing distributed systems
+5. **Release It!** - Design and Deploy Production-Ready Software
+
+<!-- Connect Section -->
+<h3><strong>📫 Let's Connect:</strong></h3>
+
+- **Professional Email:** [williamong.job@gmail.com](mailto:williamong.job@gmail.com)
+- **LinkedIn:** [linkedin.com/in/williamong9923](https://www.linkedin.com/in/williamong9923/)
+- **Personal Website:** [william9923.github.io](https://william9923.github.io)
+- **Blog:** [williamong.netlify.app](https://williamong.netlify.app/)
+
+---
+
+<p align="center">
+  <i>Always open to discussing tech, career growth, or just having a good chat about anything interesting! 🚀</i>
+</p>
