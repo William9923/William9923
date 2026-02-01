@@ -85,15 +85,9 @@ Always open to discussing tech, sharing knowledge, or geeking out about develope
 
 <h4 align="center"><strong>🔧 Work Tools:</strong></h4>
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <a href="https://github.com/William9923/dotfiles" target="_blank">
-          <img src="https://gh-card.dev/repos/William9923/dotfiles.svg">
-        </a>
-      </td>
-    </tr>
-  </table>
+  <a href="https://github.com/William9923/dotfiles" target="_blank">
+    <img src="https://gh-card.dev/repos/William9923/dotfiles.svg">
+  </a>
   <p align="center">
     <a href="https://neovim.io"><img src="https://img.shields.io/badge/Neovim-0e75b6?style=flat-square&logo=neovim&logoColor=white" alt="Neovim" /></a>
     <a href="https://www.zsh.org"><img src="https://img.shields.io/badge/Zsh-0e75b6?style=flat-square&logo=gnu-bash&logoColor=white" alt="Zsh" /></a>
