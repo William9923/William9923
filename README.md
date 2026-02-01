@@ -13,7 +13,38 @@
     <a href="mailto:williamong.job@gmail.com" target="_blank"><img src="https://img.shields.io/static/v1?label=Email&message=Contact&color=%23D14836&style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
     <br />
     <br />
+ </p>
+
+<!-- Badges Section -->
+<p align="center">
+  <!-- Profile Views -->
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=William9923.William9923&color=0e75b6&style=flat-square" alt="Profile Views" />
+  <!-- GitHub Followers -->
+  <img src="https://img.shields.io/github/followers/William9923?color=0e75b6&labelColor=151515&style=flat-square&logo=github&logoColor=white" alt="GitHub Followers" />
+  <!-- GitHub Stars -->
+  <img src="https://img.shields.io/github/stars/William9923?color=0e75b6&labelColor=151515&style=flat-square&logo=github&logoColor=white" alt="GitHub Stars" />
+  <!-- GitHub Commits -->
+  <img src="https://img.shields.io/github/last-commit/William9923/William9923?color=0e75b6&labelColor=151515&style=flat-square&logo=github&logoColor=white" alt="GitHub Commits" />
+  <!-- GitHub Issues -->
+  <img src="https://img.shields.io/github/issues/William9923?color=0e75b6&labelColor=151515&style=flat-square&logo=github&logoColor=white" alt="GitHub Issues" />
+  <!-- GitHub PRs -->
+  <img src="https://img.shields.io/github/issues-pr/William9923?color=0e75b6&labelColor=151515&style=flat-square&logo=github&logoColor=white" alt="GitHub Pull Requests" />
 </p>
+
+<p align="center">
+  <!-- Twitter Follow -->
+  <a href="https://twitter.com/intent/follow?screen_name=WilliamOng9923" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/WilliamOng9923?color=1DA1F2&labelColor=151515&logo=twitter&logoColor=white&style=flat-square" alt="Twitter Follow">
+  </a>
+  <!-- Total Repos -->
+  <img src="https://img.shields.io/github/repo-count/William9923?color=0e75b6&labelColor=151515&style=flat-square&logo=github&logoColor=white" alt="Total Repositories" />
+  <!-- Code Time (This Year) -->
+  <img src="https://img.shields.io/badge/Code%20Time-This%20Year-0e75b6?style=flat-square&logo=github&logoColor=white" alt="Code Time" />
+  <!-- Active Maintainer -->
+  <img src="https://img.shields.io/badge/Maintained%3F-Yes-0e75b6?style=flat-square&logo=github&logoColor=white" alt="Maintained" />
+</p>
+
+<br />
 
 <!-- Github Trophies  -->
 <p align="center">
