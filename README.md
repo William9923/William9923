@@ -63,6 +63,86 @@ william := Developer{
 
 Always open to discussing tech, sharing knowledge, or geeking out about developer tools! Feel free to connect! 🚀
 
+<!-- Featured Projects -->
+<h3 align="center"><strong>🚀 Featured Projects:</strong></h3>
+
+<!-- 🌟 Featured Project: igrep -->
+<div align="center">
+  <a href="https://github.com/William9923/igrep" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=William9923&repo=igrep&show_owner=true&theme=dark&bg_color=151515&title_color=0e75b6&icon_color=0e75b6&text_color=ffffff&border_color=151515" />
+  </a>
+  <p align="center">
+    <strong>⭐ Newest Release</strong> | Real-time terminal UI grep tool with live preview
+  </p>
+  <p align="center">
+    <a href="https://github.com/golang/go"><img src="https://img.shields.io/badge/Go-0e75b6?style=flat-square&logo=go&logoColor=white" alt="Go" /></a>
+    <a href="https://github.com/charmbracelet/bubbletea"><img src="https://img.shields.io/badge/Bubble_Tea-0e75b6?style=flat-square&logo=go&logoColor=white" alt="Bubble Tea" /></a>
+    <a href="https://github.com/BurntSushi/ripgrep"><img src="https://img.shields.io/badge/ripgrep-0e75b6?style=flat-square&logo=github&logoColor=white" alt="ripgrep" /></a>
+    <a href="https://github.com/William9923/igrep/releases"><img src="https://img.shields.io/github/v/release/William9923/igrep?color=0e75b6&labelColor=151515&style=flat-square&logo=github&logoColor=white" alt="Release" /></a>
+  </p>
+</div>
+<br/>
+
+<!-- 🔧 CLI Tools -->
+<h4 align="center"><strong>🔧 CLI Tools:</strong></h4>
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <a href="https://github.com/William9923/dotfiles" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=William9923&repo=dotfiles&show_owner=true&theme=dark&bg_color=151515&title_color=0e75b6&text_color=ffffff&border_color=151515" />
+        </a>
+      </td>
+    </tr>
+  </table>
+  <p align="center">
+    <a href="https://neovim.io"><img src="https://img.shields.io/badge/Neovim-0e75b6?style=flat-square&logo=neovim&logoColor=white" alt="Neovim" /></a>
+    <a href="https://www.zsh.org"><img src="https://img.shields.io/badge/Zsh-0e75b6?style=flat-square&logo=gnu-bash&logoColor=white" alt="Zsh" /></a>
+    <a href="https://sw.kovidgoyal.net/kitty/"><img src="https://img.shields.io/badge/Kitty-0e75b6?style=flat-square&logo=linux&logoColor=white" alt="Kitty" /></a>
+    <a href="https://github.com/tmux/tmux"><img src="https://img.shields.io/badge/Tmux-0e75b6?style=flat-square&logo=gnu-bash&logoColor=white" alt="Tmux" /></a>
+  </p>
+</div>
+
+<!-- ⚙️ Developer Tools -->
+<h4 align="center"><strong>⚙️ Developer Tools:</strong></h4>
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <a href="https://github.com/William9923/snorlax.nvim" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=William9923&repo=snorlax.nvim&show_owner=true&theme=dark&bg_color=151515&title_color=0e75b6&text_color=ffffff&border_color=151515" />
+        </a>
+      </td>
+    </tr>
+  </table>
+  <p align="center">
+    <a href="https://www.lua.org"><img src="https://img.shields.io/badge/Lua-0e75b6?style=flat-square&logo=lua&logoColor=white" alt="Lua" /></a>
+    <a href="https://neovim.io"><img src="https://img.shields.io/badge/LazyVim-0e75b6?style=flat-square&logo=neovim&logoColor=white" alt="LazyVim" /></a>
+    <a href="https://github.com/William9923/snorlax.nvim"><img src="https://img.shields.io/github/stars/William9923/snorlax.nvim?color=0e75b6&labelColor=151515&style=flat-square&logo=github&logoColor=white" alt="Stars" /></a>
+  </p>
+</div>
+
+<!-- 🌐 Web Projects -->
+<h4 align="center"><strong>🌐 Web Projects:</strong></h4>
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <a href="https://github.com/William9923/WebCAD" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=William9923&repo=WebCAD&show_owner=true&theme=dark&bg_color=151515&title_color=0e75b6&text_color=ffffff&border_color=151515" />
+        </a>
+      </td>
+    </tr>
+  </table>
+  <p align="center">
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-0e75b6?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" /></a>
+    <a href="https://www.webgl.org"><img src="https://img.shields.io/badge/WebGL-0e75b6?style=flat-square&logo=webgl&logoColor=white" alt="WebGL" /></a>
+  </p>
+</div>
+
+<br/>
+<hr/>
+
 <!-- Languages and Tools  -->
 <h3 align="left"><strong>⚡ Languages and Tools:</strong></h3>
 <p align="left"> 
@@ -152,14 +232,6 @@ Always open to discussing tech, sharing knowledge, or geeking out about develope
 
 <!-- Coding Stats -->
 <h3><strong>📊 Coding Activity:</strong></h3>
-
-<!-- Neovim configs  -->
-<h3><strong>⚙️ My Personal Neovim Configs: </strong></h3>
-<p><strong>Current (Snorlax):</strong></p>
-<a href="https://github.com/William9923/snorlax.nvim" target="_blank">
- <img src="https://github-readme-stats.vercel.app/api/pin/?username=William9923&repo=snorlax.nvim&show_owner=true&theme=dark&bg_color=151515" />
-</a>
-
 
 <!-- Github stats  -->
 <h3><strong>📊 GitHub Stats:</strong></h3>
