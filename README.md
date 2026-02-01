@@ -49,14 +49,6 @@ william := Developer{
 }
 ```
 
-### 🔧 Development Environment
-```lua
--- My daily drivers
-neovim = "snorlax.nvim"  -- My own setup from lazyvim
-terminal = "alacritty + tmux"
-shell = "zsh"
-```
-
 **Personal Interests:**
 - 🛠️ Tweaking my [neovim configs](#-my-personal-neovim-configs) (it's an addiction!)
 - 📚 Reading technical books and exploring open source projects
