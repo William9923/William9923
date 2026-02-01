@@ -22,7 +22,7 @@
 <h3 align="center"><strong>🏆 GitHub Achievements:</strong></h3>
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=William9923&theme=tokyonight&margin-w=20&margin-h=10&column=5&row=2&rank=SSS,SS,S,AAA,AA,A,B,C&no-frame=true" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy-fork-two.vercel.app/?username=William9923&theme=tokyonight&margin-w=20&margin-h=10&column=5&row=2&rank=SSS,SS,S,AAA,AA,A,B,C&no-frame=true" alt="GitHub Trophies" />
   </a>
 </p>
 
