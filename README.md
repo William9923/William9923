@@ -5,16 +5,6 @@
  <p align="center">Finding the right time for my <b> mega evolution! </b></p>
 </p>
 
-<!-- Profile  -->
-<p align="center">
-    <a href="https://www.linkedin.com/in/williamong9923/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-    <a href="https://medium.com/@williamong1400" target="_blank"><img src="https://img.shields.io/badge/Medium-gray.svg?&style=flat&logo=medium&logoColor=white" alt="Medium"></a>
-    <a href="https://william9923.github.io" target="_blank"><img src="https://img.shields.io/static/v1?label=Website&message=github.io&color=%230076D6&style=flat-square&logo=firefox" /></a>
-    <a href="mailto:williamong.job@gmail.com" target="_blank"><img src="https://img.shields.io/static/v1?label=Email&message=Contact&color=%23D14836&style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-    <br />
-    <br />
- </p>
-
 <!-- Badges Section -->
 <p align="center">
   <!-- Profile Views -->
@@ -25,30 +15,15 @@
   <img src="https://img.shields.io/github/stars/William9923?color=0e75b6&labelColor=151515&style=flat-square&logo=github&logoColor=white" alt="GitHub Stars" />
   <!-- GitHub Commits -->
   <img src="https://img.shields.io/github/last-commit/William9923/William9923?color=0e75b6&labelColor=151515&style=flat-square&logo=github&logoColor=white" alt="GitHub Commits" />
-  <!-- GitHub Issues -->
-  <img src="https://img.shields.io/github/issues/William9923?color=0e75b6&labelColor=151515&style=flat-square&logo=github&logoColor=white" alt="GitHub Issues" />
-  <!-- GitHub PRs -->
-  <img src="https://img.shields.io/github/issues-pr/William9923?color=0e75b6&labelColor=151515&style=flat-square&logo=github&logoColor=white" alt="GitHub Pull Requests" />
 </p>
 
+
+<!-- GitHub Trophies -->
+<h3 align="center"><strong>🏆 GitHub Achievements:</strong></h3>
 <p align="center">
-  <!-- Twitter Follow -->
-  <a href="https://twitter.com/intent/follow?screen_name=WilliamOng9923" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/WilliamOng9923?color=1DA1F2&labelColor=151515&logo=twitter&logoColor=white&style=flat-square" alt="Twitter Follow">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=William9923&theme=tokyonight&margin-w=20&margin-h=10&column=5&row=2&rank=SSS,SS,S,AAA,AA,A,B,C&no-frame=true" alt="GitHub Trophies" />
   </a>
-  <!-- Total Repos -->
-  <img src="https://img.shields.io/github/repo-count/William9923?color=0e75b6&labelColor=151515&style=flat-square&logo=github&logoColor=white" alt="Total Repositories" />
-  <!-- Code Time (This Year) -->
-  <img src="https://img.shields.io/badge/Code%20Time-This%20Year-0e75b6?style=flat-square&logo=github&logoColor=white" alt="Code Time" />
-  <!-- Active Maintainer -->
-  <img src="https://img.shields.io/badge/Maintained%3F-Yes-0e75b6?style=flat-square&logo=github&logoColor=white" alt="Maintained" />
-</p>
-
-<br />
-
-<!-- Github Trophies  -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=William9923&theme=onedark&margin-w=12&column=6&rank=SSS,SS,S,AAA,AA,A,B,C&no-frame=true" alt="GitHub Trophies" />
 </p>
 
 <!-- Professional Introduction -->
