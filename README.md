@@ -59,7 +59,7 @@ william := Developer{
 - 🛠️ Tweaking my [neovim configs](#-my-personal-neovim-configs) (it's an addiction!)
 - 📚 Reading technical books and exploring open source projects
 - 💪 Going to gym (just enough to avoid back pain lol)
-- 🎌 Reading manga and exploring random tech stuff
+- 🎌 Collecting Pokemon Cards
 
 Always open to discussing tech, sharing knowledge, or geeking out about developer tools! Feel free to connect! 🚀
 
