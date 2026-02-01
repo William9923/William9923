@@ -69,7 +69,7 @@ Always open to discussing tech, sharing knowledge, or geeking out about develope
 <!-- 🌟 Featured Project: igrep -->
 <div align="center">
   <a href="https://github.com/William9923/igrep" target="_blank">
-    <object type="image/svg+xml" data="https://gh-card.dev/repos/William9923/igrep.svg?link_target=_blank"></object>
+    <img src="https://gh-card.dev/repos/William9923/igrep.svg"></img>
   </a>
   <p align="center">
     <strong>⭐ Newest / Current Work</strong> | Real-time terminal UI grep tool with live preview
@@ -89,7 +89,7 @@ Always open to discussing tech, sharing knowledge, or geeking out about develope
     <tr>
       <td>
         <a href="https://github.com/William9923/dotfiles" target="_blank">
-          <object type="image/svg+xml" data="https://gh-card.dev/repos/William9923/dotfiles.svg?link_target=_blank"></object>
+          <img src="https://gh-card.dev/repos/William9923/dotfiles.svg">
         </a>
       </td>
     </tr>
