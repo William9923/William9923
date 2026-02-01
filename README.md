@@ -177,12 +177,17 @@ Recent technical books I've been exploring:
 5. **Release It!** - Design and Deploy Production-Ready Software
 
 <!-- Connect Section -->
-<h3><strong>📫 Let's Connect:</strong></h3>
-
-- **Professional Email:** [williamong.job@gmail.com](mailto:williamong.job@gmail.com)
-- **LinkedIn:** [linkedin.com/in/williamong9923](https://www.linkedin.com/in/williamong9923/)
-- **Personal Website:** [william9923.github.io](https://william9923.github.io)
-- **Blog:** [williamong.netlify.app](https://williamong.netlify.app/)
+<h3 align="left"><strong>📫 Connect with me:</strong></h3>
+<p align="left">
+<a href="https://github.com/William9923" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="William9923" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/williamong9923/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="williamong9923" height="30" width="40" /></a>
+<a href="https://twitter.com/@WilliamOng9923" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@WilliamOng9923" height="30" width="40" /></a>
+<a href="https://medium.com/@williamong1400" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@williamong1400" height="30" width="40" /></a>
+<a href="https://leetcode.com/William9923" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="William9923" height="30" width="40" /></a>
+<a href="mailto:williamong.job@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="williamong.job@gmail.com" height="30" width="40" /></a>
+<a href="https://william9923.github.io" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="william9923.github.io" height="30" width="40" /></a>
+<a href="https://williamong.netlify.app/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devdotto.svg" alt="williamong.netlify.app" height="30" width="40" /></a>
+</p>
 
 ---
 
