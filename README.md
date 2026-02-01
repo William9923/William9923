@@ -185,15 +185,16 @@ Always open to discussing tech, sharing knowledge, or geeking out about develope
   </a> 
 </p>
 
-<!-- Current Learning -->
+ <!-- Current Learning -->
 <h3><strong>📚 Currently Reading:</strong></h3>
 
-Recent technical books I've been exploring:
-1. [Software Design by Example](https://third-bit.com/sdxpy/) - Building software systems from scratch
-2. [Terraform Up and Running (3rd Edition)](https://www.oreilly.com/library/view/terraform-up/9781492046899/) - Infrastructure as Code best practices
-3. [Managing Kubernetes](https://www.oreilly.com/library/view/managing-kubernetes/9781492033905/) - Production K8s operations
-4. [Building Microservices](https://www.oreilly.com/library/view/building-microservices/9781491950340/) - Designing distributed systems
-5. **Release It!** - Design and Deploy Production-Ready Software
+Recent technical books I've been diving into:
+
+| Book | Focus |
+|------|-------|
+| 📖 [The Missing README](https://nurkiewicz.com/2021/10/the-missing-readme-book-review.html) | Software Engineering best practices and career guidance for new engineers |
+| 🤖 [Agentic Design Patterns](https://github.com/sarwarbeing-ai/Agentic_Design_Patterns) | Hands-on guide to building intelligent AI/ML systems with proven patterns |
+| ☸️ [Managing Kubernetes](https://www.oreilly.com/library/view/managing-kubernetes/9781492033905/) | Production-grade Kubernetes operations and real-world cluster management |
 
 <!-- Connect Section -->
 <h3 align="left"><strong>📫 Connect with me:</strong></h3>
