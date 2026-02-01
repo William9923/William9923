@@ -57,39 +57,91 @@ william := Developer{
 
 Always open to discussing tech, sharing knowledge, or geeking out about developer tools! Feel free to connect! 🚀
 
-<!-- Tech Stack  -->
-<h3><strong>⚡ Tech Stack:</strong></h3>
-
-**Primary Languages:**
-<br/>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" alt="Go"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" alt="Java"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/lua/lua.png" alt="Lua"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png" alt="Rust"></code>
-
-**Frontend & UI:**
-<br/>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="TypeScript"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" alt="Vue"></code>
-
-**Infrastructure & Cloud:**
-<br/>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/01ea2a586e5da744792d0ccfce2f68b861f29301/topics/kubernetes/kubernetes.png" alt="Kubernetes"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terraform/terraform.png" alt="Terraform"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/google-cloud/google-cloud.png" alt="GCP"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="Docker"></code>
-
-**Data & Observability:**
-<br/>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostgreSQL"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redis/redis.png" alt="Redis"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/d73b58ded658144cd29547485b8537306012eb86/topics/elasticsearch/elasticsearch.png" alt="Elasticsearch"></code>
-<code><img height="20" src="https://avatars.githubusercontent.com/u/7195757?s=48&v=4" alt="Grafana"></code>
-<code><img height="20" src="https://avatars.githubusercontent.com/u/47359?s=48&v=4" alt="Kafka"></code>
+<!-- Languages and Tools  -->
+<h3 align="left"><strong>⚡ Languages and Tools:</strong></h3>
+<p align="left"> 
+  <a href="https://go.dev/" target="_blank" rel="noreferrer"> 
+    <img src="https://skillicons.dev/icons?i=go" alt="go" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+    <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> 
+  </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+    <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> 
+    <img src="https://skillicons.dev/icons?i=rust" alt="rust" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
+    <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.lua.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://skillicons.dev/icons?i=lua" alt="lua" width="40" height="40"/> 
+  </a> 
+  <a href="https://react.dev/" target="_blank" rel="noreferrer"> 
+    <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> 
+  </a> 
+  <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://skillicons.dev/icons?i=vue" alt="vuejs" width="40" height="40"/> 
+  </a> 
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/> 
+  </a> 
+  <a href="https://nodejs.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> 
+  </a> 
+  <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/> 
+  </a> 
+  <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"> 
+    <img src="https://skillicons.dev/icons?i=kubernetes" alt="kubernetes" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.terraform.io/" target="_blank" rel="noreferrer"> 
+    <img src="https://skillicons.dev/icons?i=terraform" alt="terraform" width="40" height="40"/> 
+  </a> 
+  <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> 
+    <img src="https://skillicons.dev/icons?i=gcp" alt="gcp" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
+    <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> 
+  </a> 
+  <a href="https://redis.io/" target="_blank" rel="noreferrer"> 
+    <img src="https://skillicons.dev/icons?i=redis" alt="redis" width="40" height="40"/> 
+  </a> 
+  <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://skillicons.dev/icons?i=cassandra" alt="cassandra" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kibana/kibana-original.svg" alt="kibana" width="40" height="40"/> 
+  </a> 
+  <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://skillicons.dev/icons?i=kafka" alt="kafka" width="40" height="40"/> 
+  </a> 
+  <a href="https://grafana.com" target="_blank" rel="noreferrer"> 
+    <img src="https://skillicons.dev/icons?i=grafana" alt="grafana" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> 
+    <img src="https://skillicons.dev/icons?i=nginx" alt="nginx" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
+    <img src="https://skillicons.dev/icons?i=bash" alt="bash" width="40" height="40"/> 
+  </a> 
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> 
+  </a> 
+</p>
 
 
 <!-- Coding Stats -->
