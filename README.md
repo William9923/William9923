@@ -201,7 +201,6 @@ Recent technical books I've been diving into:
 <p align="left">
 <a href="https://github.com/William9923" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="William9923" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/williamong9923/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="williamong9923" height="30" width="40" /></a>
-<a href="https://twitter.com/@WilliamOng9923" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@WilliamOng9923" height="30" width="40" /></a>
 <a href="https://medium.com/@williamong1400" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@williamong1400" height="30" width="40" /></a>
 <a href="https://leetcode.com/William9923" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="William9923" height="30" width="40" /></a>
 </p>
