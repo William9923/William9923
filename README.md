@@ -209,7 +209,7 @@ Recent technical books I've been diving into:
 **Other Links:**
 - 📧 **Email:** [williamong.job@gmail.com](mailto:williamong.job@gmail.com)
 - 🌐 **Website:** [william9923.github.io](https://william9923.github.io)
-- ✍️ **Blog:** [williamong.netlify.app](https://williamong.netlify.app/)
+- ✍️ **Blog:** [BearBlog](https://williamong.bearblog.dev/)
 
 ---
 
