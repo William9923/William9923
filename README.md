@@ -29,72 +29,18 @@
 <!-- Professional Introduction -->
 <h2><strong>About Me:</strong></h2>
 
-Hi, I'm William - **Software Engineer @ Gojek** who loves building scalable systems and obsessing over developer tools! 
+Hi, I'm William - **Software Engineer @ Gojek** who loves building scalable and maintainable systems ! 
 
-I spend my days writing mostly on **Go**, **Typescript** and **Python** designing **cloud-native architectures** and sometime also crafting UIs for user. Always keen exploring new tech and sharing what I learn.
-
-```go
-type Developer struct {
-    Role         string   `json:"role"`
-    Languages    []string `json:"primary_languages"`
-    Interests    []string `json:"current_interests"`
-    Neovim       bool     `json:"neovim_enthusiast"`
-}
-
-william := Developer{
-    Role:      "Software Engineer L3 @ Gojek",
-    Languages: []string{"Go", "Python", "TypeScript"},
-    Interests: []string{
-        "Building Cloud-native architectures",
-        "Improving Developer experience",
-        "Learning more intuitive UI",
-        "Trying to get into Open source contributions",
-        "Building useful CLI tools",
-    },
-    Neovim: true, // I like it!!!
-}
-```
+I spend my days writing mostly on **Go**, **Typescript** and **Python** designing **cloud-native** services and also crafting UIs for user. Always keen exploring new tech and explore the unknown.
 
 **Personal Interests:**
-- 🛠️ Tweaking my [neovim configs](#-my-personal-neovim-configs) (it's an addiction!)
-- 📚 Reading technical books and exploring open source projects
+- 🛠️ Improving my workstation setup [#-my-personal-neovim-configs](https://github.com/William9923/dotfiles-mac) (it's an addiction!)
+- 📚 Exploring open source projects
 - 💪 Going to gym (just enough to avoid back pain lol)
-- 🎌 Collecting Pokemon Cards
+- 🎌 Collecting Pokemon Cards in Pocket TCG
 
-Always open to discussing tech, sharing knowledge, or geeking out about developer tools! Feel free to connect! 🚀
+Always open to discussing current tech trends, sharing knowledge and experience, or geeking out about useful developer tools! Feel free to connect! 🚀
 
-<!-- Featured Projects -->
-<h3 align="center"><strong>🚀 Featured Projects:</strong></h3>
-
-<!-- 🌟 Featured Project: igrep -->
-<div align="center">
-  <a href="https://github.com/William9923/igrep" target="_blank">
-    <img src="https://gh-card.dev/repos/William9923/igrep.svg"></img>
-  </a>
-  <p align="center">
-    <strong>⭐ Newest / Current Work</strong> | Real-time terminal UI grep tool with live preview
-  </p>
-  <p align="center">
-    <a href="https://github.com/golang/go"><img src="https://img.shields.io/badge/Go-0e75b6?style=flat-square&logo=go&logoColor=white" alt="Go" /></a>
-    <a href="https://github.com/charmbracelet/bubbletea"><img src="https://img.shields.io/badge/Bubble_Tea-0e75b6?style=flat-square&logo=go&logoColor=white" alt="Bubble Tea" /></a>
-    <a href="https://github.com/BurntSushi/ripgrep"><img src="https://img.shields.io/badge/ripgrep-0e75b6?style=flat-square&logo=github&logoColor=white" alt="ripgrep" /></a>
-    <a href="https://github.com/William9923/igrep/releases"><img src="https://img.shields.io/github/v/release/William9923/igrep?color=0e75b6&labelColor=151515&style=flat-square&logo=github&logoColor=white" alt="Release" /></a>
-  </p>
-</div>
-<br/>
-
-<h4 align="center"><strong>🔧 Work Tools:</strong></h4>
-<div align="center">
-  <a href="https://github.com/William9923/dotfiles" target="_blank">
-    <img src="https://gh-card.dev/repos/William9923/dotfiles.svg">
-  </a>
-  <p align="center">
-    <a href="https://neovim.io"><img src="https://img.shields.io/badge/Neovim-0e75b6?style=flat-square&logo=neovim&logoColor=white" alt="Neovim" /></a>
-    <a href="https://www.zsh.org"><img src="https://img.shields.io/badge/Zsh-0e75b6?style=flat-square&logo=gnu-bash&logoColor=white" alt="Zsh" /></a>
-    <a href="https://sw.kovidgoyal.net/kitty/"><img src="https://img.shields.io/badge/Kitty-0e75b6?style=flat-square&logo=linux&logoColor=white" alt="Kitty" /></a>
-    <a href="https://github.com/tmux/tmux"><img src="https://img.shields.io/badge/Tmux-0e75b6?style=flat-square&logo=gnu-bash&logoColor=white" alt="Tmux" /></a>
-  </p>
-</div>
 
 <br/>
 <hr/>
@@ -114,30 +60,16 @@ Always open to discussing tech, sharing knowledge, or geeking out about develope
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
     <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> 
   </a> 
-  <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> 
-    <img src="https://skillicons.dev/icons?i=rust" alt="rust" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> 
-  </a> 
   <a href="https://www.lua.org/" target="_blank" rel="noreferrer"> 
     <img src="https://skillicons.dev/icons?i=lua" alt="lua" width="40" height="40"/> 
   </a> 
   <a href="https://react.dev/" target="_blank" rel="noreferrer"> 
     <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> 
   </a> 
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://skillicons.dev/icons?i=vue" alt="vuejs" width="40" height="40"/> 
-  </a> 
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
     <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/> 
   </a> 
-  <a href="https://nodejs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> 
-  </a> 
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/> 
-  </a> 
+</br>
   <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"> 
     <img src="https://skillicons.dev/icons?i=kubernetes" alt="kubernetes" width="40" height="40"/> 
   </a> 
@@ -146,10 +78,8 @@ Always open to discussing tech, sharing knowledge, or geeking out about develope
   </a> 
   <a href="https://www.terraform.io/" target="_blank" rel="noreferrer"> 
     <img src="https://skillicons.dev/icons?i=terraform" alt="terraform" width="40" height="40"/> 
-  </a> 
-  <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> 
-    <img src="https://skillicons.dev/icons?i=gcp" alt="gcp" width="40" height="40"/> 
-  </a> 
+  </a>
+  </br>
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
     <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> 
   </a> 
@@ -159,29 +89,11 @@ Always open to discussing tech, sharing knowledge, or geeking out about develope
   <a href="https://redis.io/" target="_blank" rel="noreferrer"> 
     <img src="https://skillicons.dev/icons?i=redis" alt="redis" width="40" height="40"/> 
   </a> 
-  <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://skillicons.dev/icons?i=cassandra" alt="cassandra" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kibana/kibana-original.svg" alt="kibana" width="40" height="40"/> 
-  </a> 
   <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> 
     <img src="https://skillicons.dev/icons?i=kafka" alt="kafka" width="40" height="40"/> 
   </a> 
   <a href="https://grafana.com" target="_blank" rel="noreferrer"> 
     <img src="https://skillicons.dev/icons?i=grafana" alt="grafana" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> 
-    <img src="https://skillicons.dev/icons?i=nginx" alt="nginx" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
-    <img src="https://skillicons.dev/icons?i=bash" alt="bash" width="40" height="40"/> 
-  </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> 
   </a> 
 </p>
 
@@ -192,9 +104,10 @@ Recent technical books I've been diving into:
 
 | Book | Focus |
 |------|-------|
-| 📖 [The Missing README](https://nurkiewicz.com/2021/10/the-missing-readme-book-review.html) | Software Engineering best practices and career guidance for new engineers |
-| 🤖 [Agentic Design Patterns](https://github.com/sarwarbeing-ai/Agentic_Design_Patterns) | Hands-on guide to building intelligent AI/ML systems with proven patterns |
-| ☸️ [Managing Kubernetes](https://www.oreilly.com/library/view/managing-kubernetes/9781492033905/) | Production-grade Kubernetes operations and real-world cluster management |
+| [The Missing README](https://nurkiewicz.com/2021/10/the-missing-readme-book-review.html) | Software Engineering best practices and career guidance for new engineers |
+| [Managing Kubernetes](https://www.oreilly.com/library/view/managing-kubernetes/9781492033905/) | Production-grade Kubernetes operations and real-world cluster management |
+| [Managing Kubernetes](https://www.oreilly.com/library/view/managing-kubernetes/9781492033905/) | Production-grade Kubernetes operations and real-world cluster management |
+
 
 <!-- Connect Section -->
 <h3 align="left"><strong>📫 Connect with me:</strong></h3>
